@@ -1,16 +1,17 @@
-## Hi there 👋
+# Привет, я Григорий
 
-<!--
-**grigory-tikhonov/grigory-tikhonov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Обо мне
+Я выпускник бакалавриата по специальности «Информационная безопасность». Специализируюсь на **пентесте веб-приложений**, **анализе безопасности облачных сервисов** и **поиске уязвимостей**. В свободное время изучаю Active Directory и готовлюсь к OSCP.
 
-Here are some ideas to get you started:
+## Мой стек
+*   **Языки**: Python, Bash
+*   **Инструменты**: Burp Suite, Fiddler, Wireshark
+*   **Платформы**: Linux, Windows, VirtualBox
+*   **Области**: Web Security (OWASP Top 10), Cloud Security, Network Security
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Текущие проекты
+*   **[Аудит безопасности Nextcloud]()**: Практический анализ защищенности облачного сервиса с развертыванием стенда, проведением атак (перехват сессии, брутфорс, CSRF) и настройкой HTTPS/2FA.
+*   **Домашняя лаборатория AD**: Изучаю атаки на Active Directory (Golden Ticket, Kerberoasting) в изолированной среде.
+
+## Связаться со мной
+*   [Telegram](https://t.me/dreamlesslyyy)
