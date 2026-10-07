@@ -1,18 +1,34 @@
-# Привет, я Григорий
+### Hi, I'm Grigory
 
-## Обо мне
-Я выпускник бакалавриата по специальности «Информационная безопасность». Специализируюсь на **пентесте веб-приложений**, **анализе безопасности облачных сервисов** и **поиске уязвимостей**. В свободное время изучаю Active Directory и готовлюсь к OSCP.
+Cybersecurity graduate passionate about **penetration testing**, **web application security**, and **cloud security**. Currently deepening my skills in **Active Directory attacks** and preparing for **OSCP**.
 
-## Мой стек
-*   **Языки**: Python, Bash
-*   **Инструменты**: Burp Suite, Fiddler, Wireshark
-*   **Платформы**: Linux, Windows, VirtualBox
-*   **Области**: Web Security (OWASP Top 10), Cloud Security, Network Security
+---
 
-## Текущие проекты
-*   **[Аудит безопасности Nextcloud](https://github.com/grigory-tikhonov/nextcloud-security-audit)**: Практический анализ защищенности облачного сервиса с развертыванием стенда, проведением атак (перехват сессии, брутфорс, CSRF) и настройкой HTTPS/2FA.
-*   **Домашняя лаборатория AD**: Изучаю атаки на Active Directory (Golden Ticket, Kerberoasting) в изолированной среде.
+### Tech Stack
 
-## Связаться со мной
-*   [Telegram](https://t.me/dreamlesslyyy)
-*   Email: grigoriytikhonov4@gmail.com
+- **Languages:** Python, Bash
+- **Tools:** Burp Suite, Wireshark, Nmap, Metasploit, Fiddler
+- **Platforms:** Linux, Windows, VirtualBox
+- **Domains:** Web Security (OWASP Top 10), Cloud Security, Network Security
+
+---
+
+### Featured Projects
+
+- **[auto-recon](https://github.com/grigory-tikhonov/auto-recon)** — Passive vulnerability scanner correlating Nmap service banners with NVD and the Metasploit module database. Python, Nmap, NVD API.
+- **[nextcloud-security-audit](https://github.com/grigory-tikhonov/nextcloud-security-audit)** — Hands-on security assessment of a self-hosted Nextcloud instance: lab deployment, session hijacking, brute-force, CSRF, plus hardening with HTTPS and 2FA.
+
+---
+
+### Currently Learning
+
+- Active Directory attack paths (Kerberoasting, Golden Ticket) in an isolated lab
+- Preparing for OSCP
+
+---
+
+### Contact
+
+- GitHub: [@grigory-tikhonov](https://github.com/grigory-tikhonov)
+- Telegram: [Telegram](https://t.me/dartoelmazo)
+- Email: grigoriytikhonov4@gmail.com
